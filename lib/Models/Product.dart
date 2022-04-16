@@ -9,7 +9,7 @@ class Product {
     required this.image,
     required this.title,
     required this.price,
-    this.description,
+    required this.description,
     this.size,
     this.color,
   });
