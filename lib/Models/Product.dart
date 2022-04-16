@@ -32,7 +32,7 @@ List<Product> products = [
       price: 234,
       size: 8,
       description: dummyText,
-      image: "assets/images/bag_2.png",
+      image: "../assets/images/bag_2.png",
       color: Color(0xFFD3A984)),
   Product(
       id: 3,
