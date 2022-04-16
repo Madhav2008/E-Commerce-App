@@ -6,7 +6,7 @@ class Product {
   final Color color;
   Product({
     required this.id,
-    this.image,
+    required this.image,
     this.title,
     this.price,
     this.description,
