@@ -18,7 +18,7 @@ class Body extends StatelessWidget {
             "Women",
             style: Theme.of(context)
                 .textTheme
-                .headline5
+                .headline5!
                 .copyWith(fontWeight: FontWeight.bold),
           ),
         ),
