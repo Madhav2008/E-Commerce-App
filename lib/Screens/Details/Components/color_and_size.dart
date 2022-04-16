@@ -6,7 +6,7 @@ import '../../../constants.dart';
 class ColorAndSize extends StatelessWidget {
   const ColorAndSize({
     Key? key,
-    @required this.product,
+    required this.product,
   }) : super(key: key);
 
   final Product product;
