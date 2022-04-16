@@ -25,7 +25,7 @@ class ProductTitleWithImage extends StatelessWidget {
             product.title,
             style: Theme.of(context)
                 .textTheme
-                .headline4
+                .headline4!
                 .copyWith(color: Colors.white, fontWeight: FontWeight.bold),
           ),
           SizedBox(height: kDefaultPaddin),
