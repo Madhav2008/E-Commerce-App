@@ -25,7 +25,7 @@ class HomeScreen extends StatelessWidget {
       actions: <Widget>[
         IconButton(
           icon: SvgPicture.asset(
-            "assets/icons/search.svg",
+            "../assets/icons/search.svg",
             // By default our  icon color is white
             color: kTextColor,
           ),
