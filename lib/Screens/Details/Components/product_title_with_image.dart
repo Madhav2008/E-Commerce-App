@@ -5,7 +5,7 @@ import '../../../constants.dart';
 
 class ProductTitleWithImage extends StatelessWidget {
   const ProductTitleWithImage({
-    Key key,
+    Key? key,
     @required this.product,
   }) : super(key: key);
 
