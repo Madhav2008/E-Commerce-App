@@ -33,7 +33,6 @@ class HomeScreen extends StatelessWidget {
         IconButton(
           icon: SvgPicture.asset(
             "../assets/icons/cart.svg",
-            // By default our  icon color is white
             color: kTextColor,
           ),
           onPressed: () {},
