@@ -8,7 +8,7 @@ class Product {
     required this.id,
     required this.image,
     required this.title,
-    this.price,
+    required this.price,
     this.description,
     this.size,
     this.color,
