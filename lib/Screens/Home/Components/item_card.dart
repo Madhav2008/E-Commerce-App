@@ -9,7 +9,7 @@ class ItemCard extends StatelessWidget {
   const ItemCard({
     Key? key,
     this.product,
-    this.press,
+    required this.press,
   }) : super(key: key);
 
   @override
