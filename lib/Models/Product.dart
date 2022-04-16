@@ -5,7 +5,7 @@ class Product {
   final int price, size, id;
   final Color color;
   Product({
-    this.id,
+    required this.id,
     this.image,
     this.title,
     this.price,
