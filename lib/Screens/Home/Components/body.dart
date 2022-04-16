@@ -43,7 +43,7 @@ class Body extends StatelessWidget {
                               product: products[index],
                             ),
                           )),
-                    )),
+                    ),),
           ),
         ),
       ],
