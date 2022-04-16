@@ -26,7 +26,7 @@ class DetailsScreen extends StatelessWidget {
       elevation: 0,
       leading: IconButton(
         icon: SvgPicture.asset(
-          'assets/icons/back.svg',
+          '../assets/icons/back.svg',
           color: Colors.white,
         ),
         onPressed: () => Navigator.pop(context),
