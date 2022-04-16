@@ -33,7 +33,7 @@ class DetailsScreen extends StatelessWidget {
       ),
       actions: <Widget>[
         IconButton(
-          icon: SvgPicture.asset("assets/icons/search.svg"),
+          icon: SvgPicture.asset("../assets/icons/search.svg"),
           onPressed: () {},
         ),
         IconButton(
