@@ -37,7 +37,7 @@ class DetailsScreen extends StatelessWidget {
           onPressed: () {},
         ),
         IconButton(
-          icon: SvgPicture.asset("assets/icons/cart.svg"),
+          icon: SvgPicture.asset("../assets/icons/cart.svg"),
           onPressed: () {},
         ),
         SizedBox(width: kDefaultPaddin / 2)
