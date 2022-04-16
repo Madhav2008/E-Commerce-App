@@ -11,6 +11,7 @@ class Body extends StatelessWidget {
   final Product product;
 
   Body({Key? key, required this.product}) : super(key: key);
+  
   @override
   Widget build(BuildContext context) {
     Size size = MediaQuery.of(context).size;
