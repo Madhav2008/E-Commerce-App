@@ -21,7 +21,7 @@ class CounterWithFavBtn extends StatelessWidget {
             color: Color(0xFFFF6464),
             shape: BoxShape.circle,
           ),
-          child: SvgPicture.asset("assets/icons/heart.svg"),
+          child: SvgPicture.asset("../assets/icons/heart.svg"),
         )
       ],
     );
