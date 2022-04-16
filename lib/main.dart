@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:shop_app/constants.dart';
-import 'package:shop_app/screens/home/home_screen.dart';
+import 'package:e_commerce_app/constants.dart';
+import 'package:e_commerce_app/screens/home/home_screen.dart';
 
 void main() {
   runApp(
