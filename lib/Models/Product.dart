@@ -7,7 +7,7 @@ class Product {
   Product({
     required this.id,
     required this.image,
-    this.title,
+    required this.title,
     this.price,
     this.description,
     this.size,
