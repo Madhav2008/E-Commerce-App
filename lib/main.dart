@@ -3,7 +3,9 @@ import 'package:shop_app/constants.dart';
 import 'package:shop_app/screens/home/home_screen.dart';
 
 void main() {
-  runApp(MyApp(),);
+  runApp(
+    MyApp(),
+  );
 }
 
 class MyApp extends StatelessWidget {
