@@ -10,7 +10,7 @@ class Product {
     required this.title,
     required this.price,
     required this.description,
-    this.size,
+    required this.size,
     this.color,
   });
 }
