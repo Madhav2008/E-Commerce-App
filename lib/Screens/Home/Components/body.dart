@@ -3,7 +3,7 @@ import 'package:shop_app/constants.dart';
 import 'package:shop_app/models/Product.dart';
 import 'package:shop_app/screens/details/details_screen.dart';
 
-import 'categorries.dart';
+import 'categories.dart';
 import 'item_card.dart';
 
 class Body extends StatelessWidget {
