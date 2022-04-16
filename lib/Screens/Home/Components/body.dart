@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:e_commerce_app/constants.dart';
 import 'package:e_commerce_app/Models/Product.dart';
-import 'package:e_commerce_app/Screens/details/details_screen.dart';
+import 'package:e_commerce_app/Screens/Details/details_screen.dart';
 import 'categories.dart';
 import 'item_card.dart';
 
