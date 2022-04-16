@@ -13,7 +13,6 @@ class Body extends StatelessWidget {
   const Body({Key? key, required this.product}) : super(key: key);
   @override
   Widget build(BuildContext context) {
-    // It provide us total height and width
     Size size = MediaQuery.of(context).size;
     return SingleChildScrollView(
       child: Column(
