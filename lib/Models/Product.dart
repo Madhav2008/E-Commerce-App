@@ -11,7 +11,7 @@ class Product {
     required this.price,
     required this.description,
     required this.size,
-    this.color,
+    required this.color,
   });
 }
 
