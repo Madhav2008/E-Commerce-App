@@ -47,6 +47,7 @@ class _CartCounterState extends State<CartCounter> {
     return SizedBox(
       width: 40,
       height: 32,
+      // ignore: deprecated_member_use
       child: OutlineButton(
         padding: EdgeInsets.zero,
         shape: RoundedRectangleBorder(
