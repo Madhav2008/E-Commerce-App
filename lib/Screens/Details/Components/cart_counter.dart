@@ -1,4 +1,4 @@
-// ignore_for_file: prefer_const_constructors, deprecated_member_use
+// ignore_for_file: prefer_const_constructors, deprecated_member_use, use_key_in_widget_constructors
 
 import 'package:flutter/material.dart';
 import '../../../constants.dart';
