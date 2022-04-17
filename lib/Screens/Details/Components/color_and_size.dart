@@ -62,7 +62,6 @@ class ColorDot extends StatelessWidget {
   ColorDot({
     Key? key,
     required this.color,
-    // by default isSelected is false
     this.isSelected = false,
   }) : super(key: key);
 
