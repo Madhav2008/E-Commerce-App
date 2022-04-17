@@ -34,7 +34,6 @@ class Body extends StatelessWidget {
                     left: kDefaultPaddin,
                     right: kDefaultPaddin,
                   ),
-                  // height: 500,
                   decoration: BoxDecoration(
                     color: Colors.white,
                     borderRadius: BorderRadius.only(
