@@ -6,7 +6,7 @@ import 'package:e_commerce_app/Models/Product.dart';
 import '../../../constants.dart';
 
 class AddToCart extends StatelessWidget {
-  const AddToCart({
+  AddToCart({
     Key? key,
     required this.product,
   }) : super(key: key);
