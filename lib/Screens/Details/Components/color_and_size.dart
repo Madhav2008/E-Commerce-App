@@ -3,7 +3,7 @@ import 'package:e_commerce_app/Models/Product.dart';
 import '../../../constants.dart';
 
 class ColorAndSize extends StatelessWidget {
-  const ColorAndSize({
+  ColorAndSize({
     Key? key,
     required this.product,
   }) : super(key: key);
