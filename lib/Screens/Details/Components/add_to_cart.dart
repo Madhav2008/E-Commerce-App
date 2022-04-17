@@ -40,7 +40,7 @@ class AddToCart extends StatelessWidget {
           Expanded(
             child: SizedBox(
               height: 50,
-              child: FlatButton(
+              child: ElevatedButton(
                 shape: RoundedRectangleBorder(
                     borderRadius: BorderRadius.circular(18)),
                 color: product.color,
