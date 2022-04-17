@@ -40,7 +40,9 @@ class DetailsScreen extends StatelessWidget {
           icon: SvgPicture.asset("../assets/icons/cart.svg"),
           onPressed: () {},
         ),
-        SizedBox(width: kDefaultPaddin / 2,),
+        SizedBox(
+          width: kDefaultPaddin / 2,
+        ),
       ],
     );
   }
