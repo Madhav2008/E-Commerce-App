@@ -24,7 +24,7 @@ class Body extends StatelessWidget {
         Categories(),
         Expanded(
           child: Padding(
-            padding: const EdgeInsets.symmetric(horizontal: kDefaultPaddin),
+            padding: EdgeInsets.symmetric(horizontal: kDefaultPaddin),
             child: GridView.builder(
               itemCount: products.length,
               gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
