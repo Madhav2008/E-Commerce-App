@@ -9,7 +9,7 @@ import 'package:e_commerce_app/Screens/details/Components/body.dart';
 class DetailsScreen extends StatelessWidget {
   final Product product;
 
-  const DetailsScreen({Key? key, required this.product}) : super(key: key);
+  DetailsScreen({Key? key, required this.product}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
